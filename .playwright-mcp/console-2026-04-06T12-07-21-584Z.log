@@ -1,0 +1,63 @@
+[     268ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:16383
+[     902ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14983
+[     906ms] [LOG] [Fast Refresh] done in 104ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14847
+[   17081ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[   17387ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[   18211ms] [ERROR] Failed to load app: SyntaxError: The requested module 'lucide-react' does not provide an export named 'Github' @ about:srcdoc:144
+[   18212ms] [ERROR] Import map: {
+  "imports": {
+    "react": "https://esm.sh/react",
+    "react-dom": "https://esm.sh/react-dom@19",
+    "react-dom/client": "https://esm.sh/react-dom@19/client",
+    "react/jsx-runtime": "https://esm.sh/react@19/jsx-runtime",
+    "react/jsx-dev-runtime": "https://esm.sh/react@19/jsx-dev-runtime",
+    "lucide-react": "https://esm.sh/lucide-react",
+    "/App.jsx": "blob:http://localhost:3000/6e6f7d4a-8d8d-4b5b-a4db-a49f503de232",
+    "App.jsx": "blob:http://localhost:3000/6e6f7d4a-8d8d-4b5b-a4db-a49f503de232",
+    "@/App.jsx": "blob:http://localhost:3000/6e6f7d4a-8d8d-4b5b-a4db-a49f503de232",
+    "/App": "blob:http://localhost:3000/6e6f7d4a-8d8d-4b5b-a4db-a49f503de232",
+    "App": "blob:http://localhost:3000/6e6f7d4a-8d8d-4b5b-a4db-a49f503de232",
+    "@/App": "blob:http://localhost:3000/6e6f7d4a-8d8d-4b5b-a4db-a49f503de232"
+  }
+} @ about:srcdoc:145
+[   84940ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[   85002ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[   85125ms] [ERROR] Failed to load app: SyntaxError: The requested module 'lucide-react' does not provide an export named 'Github' @ about:srcdoc:144
+[   85125ms] [ERROR] Import map: {
+  "imports": {
+    "react": "https://esm.sh/react",
+    "react-dom": "https://esm.sh/react-dom@19",
+    "react-dom/client": "https://esm.sh/react-dom@19/client",
+    "react/jsx-runtime": "https://esm.sh/react@19/jsx-runtime",
+    "react/jsx-dev-runtime": "https://esm.sh/react@19/jsx-dev-runtime",
+    "lucide-react": "https://esm.sh/lucide-react",
+    "/App.jsx": "blob:http://localhost:3000/08c9addc-8f0f-4392-8148-9073723685ed",
+    "App.jsx": "blob:http://localhost:3000/08c9addc-8f0f-4392-8148-9073723685ed",
+    "@/App.jsx": "blob:http://localhost:3000/08c9addc-8f0f-4392-8148-9073723685ed",
+    "/App": "blob:http://localhost:3000/08c9addc-8f0f-4392-8148-9073723685ed",
+    "App": "blob:http://localhost:3000/08c9addc-8f0f-4392-8148-9073723685ed",
+    "@/App": "blob:http://localhost:3000/08c9addc-8f0f-4392-8148-9073723685ed"
+  }
+} @ about:srcdoc:145
+[  113298ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14983
+[  113390ms] [LOG] [Fast Refresh] done in 168ms @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_client_8f19e6fb._.js:14847
+[  131996ms] [WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[  132003ms] [WARNING] cdn.tailwindcss.com should not be used in production. To use Tailwind CSS in production, install it as a PostCSS plugin or use the Tailwind CLI: https://tailwindcss.com/docs/installation @ https://cdn.tailwindcss.com/:63
+[  132059ms] [ERROR] Failed to load app: SyntaxError: The requested module 'lucide-react' does not provide an export named 'Github' @ about:srcdoc:144
+[  132059ms] [ERROR] Import map: {
+  "imports": {
+    "react": "https://esm.sh/react",
+    "react-dom": "https://esm.sh/react-dom@19",
+    "react-dom/client": "https://esm.sh/react-dom@19/client",
+    "react/jsx-runtime": "https://esm.sh/react@19/jsx-runtime",
+    "react/jsx-dev-runtime": "https://esm.sh/react@19/jsx-dev-runtime",
+    "lucide-react": "https://esm.sh/lucide-react",
+    "/App.jsx": "blob:http://localhost:3000/5132814e-5da6-4663-95d4-2c1b3a3c221c",
+    "App.jsx": "blob:http://localhost:3000/5132814e-5da6-4663-95d4-2c1b3a3c221c",
+    "@/App.jsx": "blob:http://localhost:3000/5132814e-5da6-4663-95d4-2c1b3a3c221c",
+    "/App": "blob:http://localhost:3000/5132814e-5da6-4663-95d4-2c1b3a3c221c",
+    "App": "blob:http://localhost:3000/5132814e-5da6-4663-95d4-2c1b3a3c221c",
+    "@/App": "blob:http://localhost:3000/5132814e-5da6-4663-95d4-2c1b3a3c221c"
+  }
+} @ about:srcdoc:145
+[  134538ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3000/_next/static/chunks/node_modules_next_dist_compiled_2ce9398a._.js:16383

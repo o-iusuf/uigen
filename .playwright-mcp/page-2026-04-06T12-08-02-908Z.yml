@@ -1,0 +1,129 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e5]:
+      - heading "React Component Generator" [level=1] [ref=e7]
+      - generic [ref=e9]:
+        - generic [ref=e55]:
+          - generic [ref=e56]:
+            - generic [ref=e59]: Create a user profile card with an avatar, name, job title, bio, and social links
+            - img [ref=e62]
+          - generic [ref=e65]:
+            - img [ref=e68]
+            - generic [ref=e73]:
+              - generic [ref=e76]: "Creating file: /App.jsx"
+              - separator [ref=e77]
+              - generic [ref=e78]:
+                - paragraph [ref=e79]: "Done! I've created a user profile card with:"
+                - list [ref=e80]:
+                  - listitem [ref=e81]: Avatar image with border and shadow
+                  - listitem [ref=e82]: Name and job title
+                  - listitem [ref=e83]: Bio section
+                  - listitem [ref=e84]: Social media links (Twitter, LinkedIn, GitHub, Email) with hover effects
+                  - listitem [ref=e85]: Action button
+                  - listitem [ref=e86]: Gradient background and modern styling with Tailwind CSS
+        - generic [ref=e21]:
+          - textbox "Describe the React component you want to create..." [ref=e22]
+          - button [disabled] [ref=e23]:
+            - img [ref=e24]
+    - separator [ref=e27]
+    - generic [ref=e29]:
+      - generic [ref=e30]:
+        - tablist [ref=e32]:
+          - tab "Preview" [ref=e33]
+          - tab "Code" [active] [selected] [ref=e34]
+        - generic [ref=e35]:
+          - button "Sign In" [ref=e36]
+          - button "Sign Up" [ref=e37]
+      - generic [ref=e88]:
+        - generic [ref=e96] [cursor=pointer]:
+          - img [ref=e97]
+          - generic [ref=e102]: App.jsx
+        - separator [ref=e103]
+        - code [ref=e108]:
+          - generic [ref=e109]:
+            - generic [ref=e111]:
+              - generic [ref=e114]: "1"
+              - generic [ref=e116]: "2"
+              - generic [ref=e119]: "3"
+              - generic [ref=e120]:
+                - generic [ref=e121] [cursor=pointer]: 
+                - generic [ref=e122]: "4"
+              - generic [ref=e123]:
+                - generic [ref=e124] [cursor=pointer]: 
+                - generic [ref=e125]: "5"
+              - generic [ref=e126]:
+                - generic [ref=e127] [cursor=pointer]: 
+                - generic [ref=e128]: "6"
+              - generic [ref=e131]:
+                - generic [ref=e132] [cursor=pointer]: 
+                - generic [ref=e133]: "7"
+              - generic [ref=e136]: "8"
+              - generic [ref=e138]: "9"
+              - generic [ref=e141]: "10"
+              - generic [ref=e143]: "11"
+              - generic [ref=e144]:
+                - generic [ref=e145] [cursor=pointer]: 
+                - generic [ref=e146]: "12"
+              - generic [ref=e148]: "13"
+              - generic [ref=e149]:
+                - generic [ref=e150] [cursor=pointer]: 
+                - generic [ref=e151]: "14"
+              - generic [ref=e153]:
+                - generic [ref=e154] [cursor=pointer]: 
+                - generic [ref=e155]: "15"
+              - generic [ref=e157]: "16"
+              - generic [ref=e161]: "17"
+              - generic [ref=e163]: "18"
+              - generic [ref=e167]: "19"
+              - generic [ref=e169]: "20"
+              - generic [ref=e171]: "21"
+              - generic [ref=e173]: "22"
+              - generic [ref=e174]:
+                - generic [ref=e175] [cursor=pointer]: 
+                - generic [ref=e176]: "23"
+              - generic [ref=e179]: "24"
+              - generic [ref=e181]: "25"
+              - generic [ref=e182]:
+                - generic [ref=e183] [cursor=pointer]: 
+                - generic [ref=e184]: "26"
+            - generic [ref=e385]:
+              - generic [ref=e387]: import React from 'react';
+              - generic [ref=e389]: "import { Github, Linkedin, Twitter, Mail } from"
+              - generic [ref=e391]: "'lucide-react';"
+              - generic [ref=e394]: "export default function App() {"
+              - generic [ref=e396]: return (
+              - generic [ref=e398]: <div className="min-h-screen bg-gradient-to-br
+              - generic [ref=e400]: from-slate-900 to-slate-800 flex items-center
+              - generic [ref=e402]: justify-center p-4">
+              - generic [ref=e404]: <div className="bg-white rounded-lg shadow-2xl
+              - generic [ref=e406]: overflow-hidden max-w-sm w-full">
+              - generic [ref=e408]: "{/* Header Background */}"
+              - generic [ref=e410]: <div className="h-32 bg-gradient-to-r
+              - generic [ref=e412]: from-blue-500 to-purple-600"></div>
+              - generic [ref=e415]: "{/* Card Content */}"
+              - generic [ref=e417]: <div className="px-6 pb-6">
+              - generic [ref=e419]: "{/* Avatar */}"
+              - generic [ref=e421]: <div className="flex justify-center -mt-16
+              - generic [ref=e423]: mb-4">
+              - generic [ref=e425]: <img
+              - generic [ref=e427]: src="https://images.unsplash.com/
+              - generic [ref=e429]: photo-1494790108377-be9c29b29330?w=400&
+              - generic [ref=e431]: h=400&fit=crop"
+              - generic [ref=e433]: alt="Avatar"
+              - generic [ref=e435]: className="w-32 h-32 rounded-full
+              - generic [ref=e437]: border-4 border-white shadow-lg
+              - generic [ref=e439]: object-cover"
+              - generic [ref=e441]: />
+              - generic [ref=e443]: </div>
+              - generic [ref=e446]: "{/* Name and Title */}"
+              - generic [ref=e448]: <h2 className="text-2xl font-bold
+              - generic [ref=e450]: text-center text-gray-900 mb-1">
+              - generic [ref=e452]: Sarah Anderson
+              - generic [ref=e454]: </h2>
+              - generic [ref=e456]: <p className="text-center text-blue-600
+              - generic [ref=e458]: font-semibold mb-4">
+            - textbox "Editor content" [ref=e460]
+  - alert [ref=e49]
+  - generic [ref=e461]:
+    - alert
+    - alert
